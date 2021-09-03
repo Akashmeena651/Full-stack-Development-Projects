@@ -1,4 +1,4 @@
-#Real time Weather update web app
+# Real time Weather update web app
 
 Real time weather update ,will show temperature of the city and climate update and icon based on weather condition.
 
